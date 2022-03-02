@@ -1,4 +1,4 @@
-# Manifold-constrained Gaussian process inference for time-varying parameters in dynamic systems
+# Manifold-constrained Gaussian process inference for time-varying parameters in dynamic systems (TVMAGI)
 
 This repository provides the PyTorch implementation of TVMAGI, an extension of the MAnifold-constrained Gaussian process Inference (MAGI) for learning time-varying parameters from a perturbed dynamic system.
 
