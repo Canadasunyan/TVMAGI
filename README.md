@@ -10,7 +10,7 @@ pip3 install numpy==1.19.5 scipy==1.6.1 torch==1.8.0 matplotlib==3.3.4
 docker run -d -p shihaoyangphd/magi:map
 ```
 
-Please see three examples in Examples/. for tutorial on running TVMAGI. Note that the only module that needs to be specified by the user is "system_derivative.py".
+Please see three examples in Examples/. for tutorial on running TVMAGI. **Note that the only module that needs to be specified by the user is "system_derivative.py".**
 
 References Our paper is available on [arXiv](https://arxiv.org/abs/2105.13407). If you found this repository useful in your research, please consider citing
 
